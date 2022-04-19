@@ -17,4 +17,4 @@
 
 ## Screenshot
 
-<img src="screenshots/HappyBirthdayApp.jpeg" width=150>
+<img src="screenshot/HappyBirthdayApp.jpeg" width=150>
