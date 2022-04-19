@@ -17,4 +17,4 @@
 
 ## Screenshot
 
-![](/screenshot/HappyBirthdayApp.jpeg)
+<img src="screenshots/HappyBirthdayApp.jpeg" width=150>
